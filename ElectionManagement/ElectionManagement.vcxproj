@@ -50,12 +50,6 @@
     <ClInclude Include="D:\מדמח\שנה ב\שנה ב-סמסטר א\C++\Ex3C++\State.h" />
     <ClInclude Include="D:\מדמח\שנה ב\שנה ב-סמסטר א\C++\Ex3C++\StateList.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="D:\מדמח\שנה ב\שנה ב-סמסטר א\C++\Ex3C++\Ex3-C++.zip" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="D:\מדמח\שנה ב\שנה ב-סמסטר א\C++\Ex3C++\readme.txt" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

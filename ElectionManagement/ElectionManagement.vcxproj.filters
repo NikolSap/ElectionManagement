@@ -102,10 +102,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="D:\מדמח\שנה ב\שנה ב-סמסטר א\C++\Ex3C++\Ex3-C++.zip" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="D:\מדמח\שנה ב\שנה ב-סמסטר א\C++\Ex3C++\readme.txt" />
-  </ItemGroup>
 </Project>
